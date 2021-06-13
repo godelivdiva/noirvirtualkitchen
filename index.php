@@ -24,9 +24,9 @@ include 'tampil.php';?>
             <div class="column side">
                 <div class ="col-side-left">
                     <h3 style="text-transform: uppercase;">Mengapa Noir Virtual Kitchen ? </h3>
-                    <p style="margin-top: 100px; color: #edcfa8; font-size :16px">
-                        Noir Virtual Kitchen menyajikan hidangan anda 
-                        dengan sistem Pre-Order dikarenakan bahan utama 
+                    <p style="margin-top: 20px; color: #000; font-size :16px">
+                        <b>Noir Virtual Kitchen</b> menyajikan hidangan anda 
+                        dengan sistem <i>Pre-Order</i> dikarenakan bahan utama 
                         dari makanan kami harus dipesan terlebih dahulu.<br>
                         Dibuat dari bahan yang berkualitas dan segar, Noir pilihan tepat
                         untuk disantap bersama dengan keluarga Anda.
@@ -82,7 +82,7 @@ include 'tampil.php';?>
                 <div class ="col-side-right">
                 <p style="margin-top: 20px;">
                     <li>Makanan akan tersedia 3 hari setelah pemesanan.</li>
-                    <li>Pembeli akan dihubungi melalui SMS apabila makanan sudah siap diambil.</li>
+                    <li>Pembeli akan dihubungi melalui <b>SMS</b> apabila makanan sudah siap diambil.</li>
                     <li>Pembayaran hanya dilakukan saat pesanan diambil.</li>
                 </p>   
                 </div>
