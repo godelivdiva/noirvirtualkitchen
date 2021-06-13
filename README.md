@@ -7,6 +7,7 @@ Link : http://noirvirtualkitchen.infinityfreeapp.com/
 
 Jika website menampilkan 'Koneksi Gagal', mohon untuk di reload terlebih dahulu.
 Dikarenakan creator juga mengalami hal demikian untuk mengakses website. Setelah di reload berulang kali, website akan muncul.
+Disarankan dibuka dengan Tab Incognito. (Tidak tau kenapa layout lebih jalan di Incognito)
 
 Terimakasih.
 
