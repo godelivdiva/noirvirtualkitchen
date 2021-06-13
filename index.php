@@ -126,8 +126,7 @@ include 'tampil.php';?>
         </div>
         <div class="footer">
             <p> Noir Virtual Kitchen </p>
-            <p>Jl. Surtikanyi 3/1 RT 06 / RW 02 Kel. Bulu Lor Kec. Semarang Utara
-                Jawa Tengah 50179, Indonesia
+            <p>Jl. Pelangi LalaLili RT 02/ RW 06 Kel. Besok Kec. Senin Kota Semarang Jawa Tengah 121219, Indonesia
             </p>
         </div>
     </body>
